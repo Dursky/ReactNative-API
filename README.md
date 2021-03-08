@@ -23,9 +23,6 @@ $ Click for debug section next run it.
 
 ```
 
-At the end go to link:
-http://127.0.0.1:8888/
-
 ### REST API specification
 
 Tornado Python REST API link:<br>
