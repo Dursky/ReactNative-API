@@ -1,7 +1,8 @@
 # React Native APP [REST API]
 
-<img src ="screenshot.PNG" width="30%" height ="30%" alt="Screenshot from IOS."><br>
+Downloading information via proprietary API and then displaying the data in the application.
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+<img src ="screenshot.PNG" width="30%" height ="30%" alt="Screenshot from IOS."><br>
 
 ### Technology
 
