@@ -1,7 +1,7 @@
 # React Native APP [REST API]
 
-Downloading information via proprietary API and then displaying the data in the application.
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)<br>
+Downloading information via proprietary API and then displaying the data in the application.<br>
 <img src ="screenshot.PNG" width="30%" height ="30%" alt="Screenshot from IOS."><br>
 
 ### Technology
