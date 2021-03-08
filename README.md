@@ -1,6 +1,6 @@
 # React Native APP [REST API]
 
-![Screenshot]<img src ="screenshot.PNG" width="30%" height ="30%"><br>
+![Screenshot](<img src ="screenshot.PNG" width="30%" height ="30%">)<br>
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ### Technology
